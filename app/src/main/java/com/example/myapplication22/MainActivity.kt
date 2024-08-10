@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 //     setContentView(R.layout.relative)
-     setContentView(R.layout.constraint)
+     //setContentView(R.layout.constraint)
 
 
     }
